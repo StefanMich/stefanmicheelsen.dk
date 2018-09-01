@@ -24,7 +24,6 @@ github_username:  StefanMich
 
 # Build settings
 markdown: kramdown
-theme: 
 plugins:
   - jekyll-feed
 
